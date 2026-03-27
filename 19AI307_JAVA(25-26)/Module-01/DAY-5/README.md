@@ -28,8 +28,8 @@ End the program.
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: Jayasree T S
-RegisterNumber: 212224040135
+Developed by: Sanjai S
+RegisterNumber: 212223230185
 */
 ```
 
