@@ -27,8 +27,8 @@ If the input is 1, print “0 1”. 6.Otherwise, use a for loop to generate the 
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: Jayasree T S
-RegisterNumber: 212224040135
+Developed by: Sanjai S
+RegisterNumber: 212223230185
 */
 ```
 
